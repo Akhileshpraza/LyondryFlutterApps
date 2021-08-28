@@ -1,0 +1,26 @@
+String liveBaseURL = "http://65.2.22.83:1050/api/";
+String baseURL = liveBaseURL;
+String register = baseURL+"CustomerMasterApi/RegisterCustomer?resend=N";
+String verifyOtp = baseURL + "OtpApi/Validate";
+String selectSevice =baseURL + "ServiceApi/SelectService";
+String loginApi = baseURL + "LoginApi/Login";
+String lpdateCustomer = baseURL + "CustomerUpdateApi/UpdateCustomer";
+String letCustomerProfile = baseURL + "CustomerUpdateApi/GetCustomerProfile";
+String insertAddress = baseURL + "AddressApi/InsertAddress";
+String selectOrder = baseURL + "PickupRequestApi/SelectOrder";
+String getAddress = baseURL +"AddressApi/GetAddress";
+String uploadePick = baseURL +"ProfilePictureApi/UploadProfilePic";
+String selectStore = baseURL +"StoreApi/SelectStore?StoreId=0";
+String logout = baseURL +"LogoutApi/Logout";
+String timeSlot = baseURL +"TimeSlotApi/SelectTimeSlot";
+String insertPickup = baseURL + "PickupRequestApi/InsertPickup";
+String deleteAddress = baseURL +"DeleteAddressApi/DeleteAddress";
+String getProfileImg = baseURL + "ProfilePictureApi/GetProfilePic";
+String getSelectOrder = baseURL + "PickupRequestApi/SelectOrder";
+String updateAddress = baseURL +"UpdateAddressApi/UpdateAddress";
+String orderTraking = baseURL +"OrderTrackingApi/OrderTracking";
+String selectOffers = baseURL +"OfferApi/SelectOffers";
+String updateStatus = baseURL + "PickupStatusApi/UpdateStatus";
+String selectPickupCompleted = baseURL +"PickupCompletedApi/SelectPickupCompleted";
+String selectInvoiceStatus = baseURL +"InvoiceApi/SelectInvoiceStatus";
+

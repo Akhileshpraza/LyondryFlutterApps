@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "469001062034",
+    "project_id": "lyondryapp",
+    "storage_bucket": "lyondryapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469001062034:android:bc499a4919ab5c4af8084b",
+        "android_client_info": {
+          "package_name": "com.example.demogetx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469001062034-hek5lm7ma7328kd9uhsba92lqkkjifbd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.demogetx",
+            "certificate_hash": "32b7a28027cb5100c9ce72dfd0fcaded97d2b5ab"
+          }
+        },
+        {
+          "client_id": "469001062034-9121uj34eobc0t88vs42d4rneupbj6vm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8aclU25Yz7zl6I7ED3eSGr50bzrSKyic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469001062034-9121uj34eobc0t88vs42d4rneupbj6vm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
